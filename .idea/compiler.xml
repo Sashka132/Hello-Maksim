@@ -6,8 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="untitled1" />
+        <module name="Hello-Maksim" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Hello-Maksim" target="8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
